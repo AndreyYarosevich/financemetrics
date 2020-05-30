@@ -49,7 +49,7 @@ services:
 
   auth-mongodb:
     environment:
-      MONGODB_PASSWORD: $MONGODB_PASSWORD
+      MONGODB_PASSWORD: 1234
     image: yarosevich/finance-mongodb
     restart: always
 
