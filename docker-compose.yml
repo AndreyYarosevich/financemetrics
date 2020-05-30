@@ -8,13 +8,13 @@ services:
 
   config:
     environment:
-      CONFIG_SERVICE_PASSWORD: $CONFIG_SERVICE_PASSWORD
+      CONFIG_SERVICE_PASSWORD: 1234
     image: yarosevich/finance-config
     restart: always
 
   registry:
     environment:
-      CONFIG_SERVICE_PASSWORD: $CONFIG_SERVICE_PASSWORD
+      CONFIG_SERVICE_PASSWORD: 1234
     image: yarosevich/finance-registry
     restart: always
     depends_on:
@@ -25,7 +25,7 @@ services:
 
   gateway:
     environment:
-      CONFIG_SERVICE_PASSWORD: $CONFIG_SERVICE_PASSWORD
+      CONFIG_SERVICE_PASSWORD: 1234
     image: yarosevich/finance-gateway
     restart: always
     depends_on:
@@ -36,11 +36,11 @@ services:
 
   auth-service:
     environment:
-      CONFIG_SERVICE_PASSWORD: $CONFIG_SERVICE_PASSWORD
-      NOTIFICATION_SERVICE_PASSWORD: $NOTIFICATION_SERVICE_PASSWORD
-      STATISTICS_SERVICE_PASSWORD: $STATISTICS_SERVICE_PASSWORD
-      ACCOUNT_SERVICE_PASSWORD: $ACCOUNT_SERVICE_PASSWORD
-      MONGODB_PASSWORD: $MONGODB_PASSWORD
+      CONFIG_SERVICE_PASSWORD: 1234
+      NOTIFICATION_SERVICE_PASSWORD: 1234
+      STATISTICS_SERVICE_PASSWORD: 1234
+      ACCOUNT_SERVICE_PASSWORD: 1234
+      MONGODB_PASSWORD: 1234
     image: yarosevich/finance-auth-service
     restart: always
     depends_on:
@@ -55,9 +55,9 @@ services:
 
   account-service:
     environment:
-      CONFIG_SERVICE_PASSWORD: $CONFIG_SERVICE_PASSWORD
-      ACCOUNT_SERVICE_PASSWORD: $ACCOUNT_SERVICE_PASSWORD
-      MONGODB_PASSWORD: $MONGODB_PASSWORD
+      CONFIG_SERVICE_PASSWORD: 1234
+      ACCOUNT_SERVICE_PASSWORD: 1234
+      MONGODB_PASSWORD: 1234
     image: yarosevich/finance-account-service
     restart: always
     depends_on:
@@ -67,15 +67,15 @@ services:
   account-mongodb:
     environment:
       INIT_DUMP: account-service-dump.js
-      MONGODB_PASSWORD: $MONGODB_PASSWORD
+      MONGODB_PASSWORD: 1234
     image: yarosevich/finance-mongodb
     restart: always
 
   statistics-service:
     environment:
-      CONFIG_SERVICE_PASSWORD: $CONFIG_SERVICE_PASSWORD
-      MONGODB_PASSWORD: $MONGODB_PASSWORD
-      STATISTICS_SERVICE_PASSWORD: $STATISTICS_SERVICE_PASSWORD
+      CONFIG_SERVICE_PASSWORD: 1234
+      MONGODB_PASSWORD: 1234
+      STATISTICS_SERVICE_PASSWORD: 1234
     image: yarosevich/finance-statistics-service
     restart: always
     depends_on:
@@ -84,15 +84,15 @@ services:
 
   statistics-mongodb:
     environment:
-      MONGODB_PASSWORD: $MONGODB_PASSWORD
+      MONGODB_PASSWORD: 1234
     image: yarosevich/finance-mongodb
     restart: always
 
   notification-service:
     environment:
-      CONFIG_SERVICE_PASSWORD: $CONFIG_SERVICE_PASSWORD
-      MONGODB_PASSWORD: $MONGODB_PASSWORD
-      NOTIFICATION_SERVICE_PASSWORD: $NOTIFICATION_SERVICE_PASSWORD
+      CONFIG_SERVICE_PASSWORD: 1234
+      MONGODB_PASSWORD: 1234
+      NOTIFICATION_SERVICE_PASSWORD: 1234
     image: yarosevich/finance-notification-service
     restart: always
     depends_on:
@@ -103,4 +103,4 @@ services:
     image: yarosevich/finance-mongodb
     restart: always
     environment:
-      MONGODB_PASSWORD: $MONGODB_PASSWORD
+      MONGODB_PASSWORD: 1234
