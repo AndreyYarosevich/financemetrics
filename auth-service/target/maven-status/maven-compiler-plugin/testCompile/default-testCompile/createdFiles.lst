@@ -1,0 +1,5 @@
+com\financemetrics\auth\service\security\MongoUserDetailsServiceTest.class
+com\financemetrics\auth\AuthServiceApplicationTests.class
+com\financemetrics\auth\repository\UserRepositoryTest.class
+com\financemetrics\auth\service\UserServiceTest.class
+com\financemetrics\auth\controller\UserControllerTest.class

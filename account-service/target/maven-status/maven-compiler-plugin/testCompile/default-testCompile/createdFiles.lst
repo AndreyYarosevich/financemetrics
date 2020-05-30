@@ -1,0 +1,5 @@
+com\financemetrics\account\controller\AccountControllerTest.class
+com\financemetrics\account\client\StatisticsServiceClientFallbackTest.class
+com\financemetrics\account\service\AccountServiceTest.class
+com\financemetrics\account\AccountServiceApplicationTests.class
+com\financemetrics\account\repository\AccountRepositoryTest.class

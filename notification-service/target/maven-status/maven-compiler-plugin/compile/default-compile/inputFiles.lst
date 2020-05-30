@@ -1,0 +1,17 @@
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\repository\converter\FrequencyReaderConverter.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\service\RecipientServiceImpl.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\domain\Recipient.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\service\RecipientService.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\service\NotificationServiceImpl.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\client\AccountServiceClient.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\controller\RecipientController.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\NotificationServiceApplication.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\service\NotificationService.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\repository\RecipientRepository.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\repository\converter\FrequencyWriterConverter.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\config\ResourceServerConfig.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\domain\NotificationType.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\service\EmailServiceImpl.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\domain\Frequency.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\domain\NotificationSettings.java
+D:\Дипломная\piggymetrics\notification-service\src\main\java\com\financemetrics\notification\service\EmailService.java

@@ -1,0 +1,17 @@
+com\financemetrics\account\domain\TimePeriod.class
+com\financemetrics\account\config\ResourceServerConfig.class
+com\financemetrics\account\client\StatisticsServiceClientFallback.class
+com\financemetrics\account\controller\ErrorHandler.class
+com\financemetrics\account\service\AccountService.class
+com\financemetrics\account\service\security\CustomUserInfoTokenServices.class
+com\financemetrics\account\domain\Account.class
+com\financemetrics\account\domain\Currency.class
+com\financemetrics\account\client\StatisticsServiceClient.class
+com\financemetrics\account\domain\Saving.class
+com\financemetrics\account\service\AccountServiceImpl.class
+com\financemetrics\account\controller\AccountController.class
+com\financemetrics\account\repository\AccountRepository.class
+com\financemetrics\account\AccountApplication.class
+com\financemetrics\account\client\AuthServiceClient.class
+com\financemetrics\account\domain\User.class
+com\financemetrics\account\domain\Item.class

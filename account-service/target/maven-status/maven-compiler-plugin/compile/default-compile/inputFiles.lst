@@ -1,0 +1,17 @@
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\service\AccountService.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\client\StatisticsServiceClientFallback.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\domain\Item.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\client\AuthServiceClient.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\AccountApplication.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\config\ResourceServerConfig.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\domain\Account.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\client\StatisticsServiceClient.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\domain\TimePeriod.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\domain\User.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\domain\Saving.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\controller\AccountController.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\domain\Currency.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\repository\AccountRepository.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\service\security\CustomUserInfoTokenServices.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\service\AccountServiceImpl.java
+D:\Дипломная\piggymetrics\account-service\src\main\java\com\financemetrics\account\controller\ErrorHandler.java

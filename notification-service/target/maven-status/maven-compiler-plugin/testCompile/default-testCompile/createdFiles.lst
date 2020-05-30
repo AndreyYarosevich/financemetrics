@@ -1,0 +1,6 @@
+com\financemetrics\notification\repository\RecipientRepositoryTest.class
+com\financemetrics\notification\controller\RecipientControllerTest.class
+com\financemetrics\notification\service\NotificationServiceImplTest.class
+com\financemetrics\notification\NotificationServiceApplicationTests.class
+com\financemetrics\notification\service\EmailServiceImplTest.class
+com\financemetrics\notification\service\RecipientServiceImplTest.class

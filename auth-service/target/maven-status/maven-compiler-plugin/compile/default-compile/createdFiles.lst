@@ -1,0 +1,9 @@
+com\financemetrics\auth\config\OAuth2AuthorizationConfig.class
+com\financemetrics\auth\repository\UserRepository.class
+com\financemetrics\auth\controller\UserController.class
+com\financemetrics\auth\domain\User.class
+com\financemetrics\auth\service\UserServiceImpl.class
+com\financemetrics\auth\service\security\MongoUserDetailsService.class
+com\financemetrics\auth\config\WebSecurityConfig.class
+com\financemetrics\auth\AuthApplication.class
+com\financemetrics\auth\service\UserService.class

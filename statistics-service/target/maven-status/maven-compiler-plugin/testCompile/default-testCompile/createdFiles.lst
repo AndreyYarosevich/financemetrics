@@ -1,0 +1,6 @@
+com\financemetrics\statistics\controller\StatisticsControllerTest.class
+com\financemetrics\statistics\StatisticsServiceApplicationTests.class
+com\financemetrics\statistics\repository\DataPointRepositoryTest.class
+com\financemetrics\statistics\service\ExchangeRatesServiceImplTest.class
+com\financemetrics\statistics\service\StatisticsServiceImplTest.class
+com\financemetrics\statistics\client\ExchangeRatesClientTest.class

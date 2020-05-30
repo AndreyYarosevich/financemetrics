@@ -1,0 +1,9 @@
+D:\Дипломная\piggymetrics\auth-service\src\main\java\com\financemetrics\auth\AuthApplication.java
+D:\Дипломная\piggymetrics\auth-service\src\main\java\com\financemetrics\auth\controller\UserController.java
+D:\Дипломная\piggymetrics\auth-service\src\main\java\com\financemetrics\auth\domain\User.java
+D:\Дипломная\piggymetrics\auth-service\src\main\java\com\financemetrics\auth\service\security\MongoUserDetailsService.java
+D:\Дипломная\piggymetrics\auth-service\src\main\java\com\financemetrics\auth\repository\UserRepository.java
+D:\Дипломная\piggymetrics\auth-service\src\main\java\com\financemetrics\auth\config\WebSecurityConfig.java
+D:\Дипломная\piggymetrics\auth-service\src\main\java\com\financemetrics\auth\config\OAuth2AuthorizationConfig.java
+D:\Дипломная\piggymetrics\auth-service\src\main\java\com\financemetrics\auth\service\UserServiceImpl.java
+D:\Дипломная\piggymetrics\auth-service\src\main\java\com\financemetrics\auth\service\UserService.java
